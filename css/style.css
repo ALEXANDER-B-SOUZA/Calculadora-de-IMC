@@ -14,14 +14,8 @@
     text-align: justify; 
      }
 
-     button{
-      width: 10em;
-      text-align: center;
-      padding: 15px 20px;
-      border: 1px solid #eee;
-      border-radius: 6px;
-      background-color: #092b76;
-      font-size: 18px;
-      font-family: sans-serif;
-      color: #eee;
-     }
+     .enviar{
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      }
