@@ -1,12 +1,12 @@
 Tarefas
 
-[ ] delimitar a área onde a calculadora ficará;
-[ ] Colocar Título;
-[ ] criar uma label e um input para nome;
-[ ] Criar uma label e um input para idade;
-[ ] Criar uma label e un input para altura em cm;
-[ ] Criar uma label e um input para peso;
-[ ] Criar um checkbox para sexo;
+[X] delimitar a área onde a calculadora ficará;
+[X] Colocar Título;
+[X] criar uma label e um input para nome;
+[X] Criar uma label e um input para idade;
+[X] Criar uma label e un input para altura em cm;
+[X] Criar uma label e um input para peso;
+[X] Criar um checkbox para sexo;
 [ ] criar um button para calcular;
 [ ] Criar um output para o resultado;
 [ ] Alocar o conteúdo digitado no campo nome em uma let;

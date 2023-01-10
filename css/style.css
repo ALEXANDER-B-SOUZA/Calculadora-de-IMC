@@ -1,0 +1,14 @@
+
+ div{
+    width:20em;
+    font-family: fantasy;
+    font-size: 1em; 
+    height: 15em;    
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background: #4651eb;
+    border-radius: 6px;
+    padding: 3em 5em;
+    text-transform: uppercase;   
+     }
