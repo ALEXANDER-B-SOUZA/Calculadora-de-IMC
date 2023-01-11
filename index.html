@@ -13,15 +13,16 @@
     <!-- Criando delimitação da calculadora-->
     <div>
         <!-- Inserindo formulário-->
-       <form action="">
-        <input type="text" name="name" placeholder="Nome:">
-        <input type="number" name="idade" placeholder="Idade:">
-        <input type="number" name="altura" placeholder="Altura:">
-        <input type="number" name="Peso" placeholder="Peso:">
-        <input type="checkbox" placeholder="Masculino">  <input type="checkbox" placeholder="Feminino">
-        <input class="enviar" type="submite" Value="calcular">
-       </form>    
-<<br>
+> <form method="get" action="receber_dados">
+            <input type="text" name="nome" placeholder="Nome:"><br>
+            <input type="number" name="idade" placeholder="Idade:"><br>
+            <input type="number" name="altura" placeholder="Altura em cm:"><br>
+            <input type="number" name="peso" placeholder="Peso:"><br>
+            <input type="checkbox" name="sexo" value="masculino">Masculino<br>
+            <input type="checkbox" name="sexo" value="feminino">Feminino<br>
+            <input type="submit" name="calcular" placeholder="calcular"><br>
+        </form>
+        <<br>
 <br>
 <br>
 Resultado <textarea rows="7" cols="50" maxlength="2"></textarea>
