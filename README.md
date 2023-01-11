@@ -9,7 +9,7 @@ Tarefas
 [X] Criar um checkbox para sexo;
 [X] criar um button para calcular;
 [X] Criar um input para o resultado;
-[ ] Alocar o conteúdo digitado no campo nome em uma let;
+[X] Alocar o conteúdo digitado no campo nome em uma let;
 [ ] Alocar o conteúdo digitado no campo idade em uma let;
 [ ] Alocar o conteúdo digitado no campo altura em uma let;
 [ ] Alocar o conteúdo digitado no campo altura em uma let;
