@@ -6,7 +6,9 @@ function calcular(){
     let peso =  document.getElementById("peso").value;
     let sexo =  document.getElementById("sexo").value;
 /* função para calcular IMC */
-
-let resultado =  peso / (altura * altura);
-console.log(resultado);
+let alturacm = altura/100;
+let IMC =  peso / (alturacm * alturacm);
+document.getElementById("resultado").innerHTML = nome+ "seu IMC é: "+IMC 
+console.log(idade);
+console.log(sexo);
 }
