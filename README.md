@@ -10,12 +10,12 @@ Tarefas
 [X] criar um button para calcular;
 [X] Criar um input para o resultado;
 [X] Alocar o conteúdo digitado no campo nome em uma let;
-[ ] Alocar o conteúdo digitado no campo idade em uma let;
-[ ] Alocar o conteúdo digitado no campo altura em uma let;
-[ ] Alocar o conteúdo digitado no campo altura em uma let;
+[x] Alocar o conteúdo digitado no campo idade em uma let;
+[x] Alocar o conteúdo digitado no campo altura em uma let;
+[x] Alocar o conteúdo digitado no campo altura em uma let;
 [X] fazer o calculo (altura x altura) / pelo peso;
 [ ] Criar regra para para comparação de acordo com idade e sexo;
-[ ] Exibir resultado, de acordo com a OMS;
+[x] Exibir resultado, de acordo com a OMS;
 
 Extra
 
