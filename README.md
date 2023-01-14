@@ -9,6 +9,8 @@ Tarefas
 [X] Criar um checkbox para sexo;
 [X] criar um button para calcular;
 [X] Criar um input para o resultado;
+[x] lincar o Html ao CSS;
+[x] Linca o HTML ao JavaScript;
 [X] Alocar o conteúdo digitado no campo nome em uma let;
 [x] Alocar o conteúdo digitado no campo idade em uma let;
 [x] Alocar o conteúdo digitado no campo altura em uma let;
