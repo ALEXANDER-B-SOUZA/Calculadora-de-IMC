@@ -10,13 +10,13 @@ Tarefas
 [X] criar um button para calcular;
 [X] Criar um input para o resultado;
 [x] lincar o Html ao CSS;
-[x] Linca o HTML ao JavaScript;
+[x] Lincar o HTML ao JavaScript;
 [X] Alocar o conteúdo digitado no campo nome em uma let;
 [x] Alocar o conteúdo digitado no campo idade em uma let;
 [x] Alocar o conteúdo digitado no campo altura em uma let;
 [x] Alocar o conteúdo digitado no campo altura em uma let;
 [X] fazer o calculo (altura x altura) / pelo peso;
-[ ] Criar regra para para comparação de acordo com idade e sexo;
+[x] Criar regra para para comparação de acordo com idade e sexo;
 [x] Exibir resultado, de acordo com a OMS;
 
 Extra
