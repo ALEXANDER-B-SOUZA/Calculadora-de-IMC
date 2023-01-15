@@ -1,4 +1,4 @@
-/*Chamar função ao usuário digitar algum valor no campo */
+/*Chamar função ao usuário clicar no botão calcular */
 function calcular(){
     let nome =  document.getElementById("nome").value;    
     let altura =  document.getElementById("altura").value;
@@ -21,4 +21,5 @@ document.getElementById("resultado").innerHTML = nome+ ", seu IMC é: "+IMC +". 
 document.getElementById("resultado").innerHTML = nome+ ", seu IMC é: "+IMC +". Você está com obesidade grau III"
  }
 }
+
 
