@@ -1,4 +1,4 @@
-Tarefas
+  Tarefas      
 
 [X] delimitar a área onde a calculadora ficará;
 [X] Colocar Título;
@@ -14,7 +14,7 @@ Tarefas
 [x] Criar regra para para comparação de acordo com idade e sexo;
 [x] Exibir resultado, de acordo com a OMS;
 
-Extra
+Extra           
 
 [ ] Exibir recomendações para melhorar o IMC;
 [ ] Calcular o peso ideal do individuo;
