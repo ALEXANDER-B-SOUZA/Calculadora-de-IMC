@@ -1,5 +1,6 @@
 /*Chamar função ao usuário clicar no botão calcular */
 function calcular(){
+    
     let nome =  document.getElementById("nome").value;    
     let altura =  document.getElementById("altura").value;
     let peso =  document.getElementById("peso").value;   
